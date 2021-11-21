@@ -98,6 +98,6 @@ _Make sure your device and Raspberry Pi are connect to the same WiFi._
 
 <img src="https://github.com/5j54d93/NTOU-CS-Project/blob/main/Photo/Block%20Diagram.png" width='100%' height='100%'/>
 
-## NTOU CS Project｜License：© Google Hardware Product Sprint 2021
+## NTOU CS Project｜License：© NTOU CS 2021 Ricky Chuang
 
 This package is licensed under MIT license. See [LICENSE](https://github.com/5j54d93/NTOU-CS-Project/blob/main/LICENSE) for details.
