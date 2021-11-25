@@ -92,7 +92,7 @@ _Make sure your device and Raspberry Pi are connect to the same WiFi._
 
 ### Screenshot with Day theme and Nithgt theme（Automatic switching）
 
-<img src="https://github.com/5j54d93/Google-HPS/blob/main/photo/Screenshot.png" width='100%' height='100%'/>
+<img src="https://github.com/5j54d93/NTOU-CS-Project/blob/main/Photo/Screenshot.png" width='100%' height='100%'/>
 
 ## NTOU CS Project｜Block Diagram
 
