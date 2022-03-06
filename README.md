@@ -2,9 +2,7 @@
 
 [![CodeQL](https://github.com/5j54d93/NTOU-CS-Project/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/5j54d93/NTOU-CS-Project/actions/workflows/codeql-analysis.yml)
 ![GitHub](https://img.shields.io/github/license/5j54d93/NTOU-CS-Project)
-![GitHub contributors](https://img.shields.io/github/contributors/5j54d93/NTOU-CS-Project)
 ![GitHub Repo stars](https://img.shields.io/github/stars/5j54d93/NTOU-CS-Project)
-![GitHub watchers](https://img.shields.io/github/watchers/5j54d93/NTOU-CS-Project)
 ![GitHub repo size](https://img.shields.io/github/repo-size/5j54d93/NTOU-CS-Project)
 
 Using Raspberry Pi 3 Model B+ to help us auto watering plants, and if there are birds aproaching, buzzer will noise to scare them away！We also have a dashboard（web）to view all related data which could auto switching between Day theme and Nithgt theme！And you could also remote control Raspberry Pi to watering or noising by clicking the button on website if you want！
@@ -98,6 +96,6 @@ _Make sure your device and Raspberry Pi are connect to the same WiFi._
 
 <img src="https://github.com/5j54d93/NTOU-CS-Project/blob/main/Photo/Block%20Diagram.png" width='100%' height='100%'/>
 
-## NTOU CS Project｜License：© NTOU CS 2021 Ricky Chuang
+## License：MIT
 
-This package is licensed under MIT license. See [LICENSE](https://github.com/5j54d93/NTOU-CS-Project/blob/main/LICENSE) for details.
+This package is [MIT licensed](https://github.com/5j54d93/NTOU-CS-Project/blob/main/LICENSE).
