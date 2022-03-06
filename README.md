@@ -7,7 +7,7 @@
 
 Using Raspberry Pi 3 Model B+ to help us auto watering plants, and if there are birds aproaching, buzzer will noise to scare them away！We also have a dashboard（web）to view all related data which could auto switching between Day theme and Nithgt theme！And you could also remote control Raspberry Pi to watering or noising by clicking the button on website if you want！
 
-<img src="https://github.com/5j54d93/Google-HPS/blob/main/photo/Product.png" width='100%' height='100%'/>
+<img src="https://github.com/5j54d93/NTOU-CS-Project/blob/main/.github/assets/Product.png" width='100%' height='100%'/>
 
 ## Overview
 
@@ -90,11 +90,11 @@ _Make sure your device and Raspberry Pi are connect to the same WiFi._
 
 ### Screenshot with Day theme and Nithgt theme（Automatic switching）
 
-<img src="https://github.com/5j54d93/NTOU-CS-Project/blob/main/Photo/Screenshot.png" width='100%' height='100%'/>
+<img src="https://github.com/5j54d93/NTOU-CS-Project/blob/main/.github/assets/Screenshot.png" width='100%' height='100%'/>
 
 ## Block Diagram
 
-<img src="https://github.com/5j54d93/NTOU-CS-Project/blob/main/Photo/Block%20Diagram.png" width='100%' height='100%'/>
+<img src="https://github.com/5j54d93/NTOU-CS-Project/blob/main/.github/assets/Block%20Diagram.png" width='100%' height='100%'/>
 
 ## License：MIT
 
