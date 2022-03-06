@@ -1,4 +1,4 @@
-# NTOU CS Project：Demeter
+# NTOU CS Project
 
 [![CodeQL](https://github.com/5j54d93/NTOU-CS-Project/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/5j54d93/NTOU-CS-Project/actions/workflows/codeql-analysis.yml)
 ![GitHub](https://img.shields.io/github/license/5j54d93/NTOU-CS-Project)
@@ -9,7 +9,7 @@ Using Raspberry Pi 3 Model B+ to help us auto watering plants, and if there are 
 
 <img src="https://github.com/5j54d93/Google-HPS/blob/main/photo/Product.png" width='100%' height='100%'/>
 
-## NTOU CS Project｜Overview
+## Overview
 
 1. [Wiring to Raspberry Pi](https://github.com/5j54d93/NTOU-CS-Project#ntou-cs-projectwiring-to-raspberry-pi)
    - [Check the I2C devices](https://github.com/5j54d93/NTOU-CS-Project#check-the-i2c-devices)
@@ -22,7 +22,7 @@ Using Raspberry Pi 3 Model B+ to help us auto watering plants, and if there are 
 - [Block Diagram](https://github.com/5j54d93/NTOU-CS-Project#ntou-cs-projectblock-diagram)
 - [License](https://github.com/5j54d93/NTOU-CS-Project#ntou-cs-projectlicense-ntou-cs-2021-ricky-chuang)
 
-## NTOU CS Project｜Wiring to Raspberry Pi
+## Wiring to Raspberry Pi
 
 - **［I2C］Light**：APDS9960
 - **［I2C］Air Quality**：SGP30
@@ -60,26 +60,26 @@ crw-rw---- 1 root spi 153, 0 Aug 28 13:17 /dev/spidev0.0
 crw-rw---- 1 root spi 153, 1 Aug 28 13:17 /dev/spidev0.1
 ```
 
-## NTOU CS Project｜Install Libraries on Raspberry Pi
+## Install Libraries on Raspberry Pi
 
 ```shell
 sudo pip3 install -r requirements.txt
 ```
 
-## NTOU CS Project｜Download this Repository on Raspberry Pi
+## Download this Repository on Raspberry Pi
 
 ```shell
 git clone https://github.com/5j54d93/NTOU-CS-Project
 ```
 
-## NTOU CS Project｜Run Web Server on Raspberry Pi
+## Run Web Server on Raspberry Pi
 
 ```shell
 cd NTOU-CS-Project
 sudo python3 Demeter.py
 ```
 
-## NTOU CS Project｜Open the Website
+## Open the Website
 
 You could open it on computer, iPhone, iPad ......, as long as your device has a browser.  
 _Make sure your device and Raspberry Pi are connect to the same WiFi._
@@ -92,7 +92,7 @@ _Make sure your device and Raspberry Pi are connect to the same WiFi._
 
 <img src="https://github.com/5j54d93/NTOU-CS-Project/blob/main/Photo/Screenshot.png" width='100%' height='100%'/>
 
-## NTOU CS Project｜Block Diagram
+## Block Diagram
 
 <img src="https://github.com/5j54d93/NTOU-CS-Project/blob/main/Photo/Block%20Diagram.png" width='100%' height='100%'/>
 
